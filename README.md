@@ -1,7 +1,9 @@
 # Hi there, I'm Anand Singh 👋
 ### Full-Stack Developer | Blockchain Developer
 
-Crafting robust **full-stack applications** and secure **decentralized systems**. Focused on scalable architecture, performance optimization, and delivering seamless user experiences.
+I am a passionate software engineer who enjoys building complete applications from the ground up. I focus on creating digital tools and websites that are not only functional but also fast, secure, and easy to use.
+
+With a strong foundation in modern development, I love turning complex requirements into simple, elegant solutions. Whether it's designing a beautiful user interface or engineering a robust backend system, my goal is always to deliver high-quality software that provides real value to users.
 
 ---
 
