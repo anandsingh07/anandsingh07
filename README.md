@@ -1,7 +1,7 @@
 # Hi there, I'm Anand Singh 👋
-### Full-Stack Developer | Blockchain Developer | Web3 Engineer
+### Full-Stack Developer | Blockchain Developer
 
-Building custom **web apps** & **smart contracts**. Passionate about **Web3**, **Account Abstraction**, and creating seamless user experiences.
+Crafting robust **full-stack applications** and secure **decentralized systems**. Focused on scalable architecture, performance optimization, and delivering seamless user experiences.
 
 ---
 
