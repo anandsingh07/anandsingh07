@@ -6,7 +6,7 @@
 ![open to work](https://img.shields.io/badge/open%20to%20work-✓-black?style=flat-square)
 [![linkedin](https://img.shields.io/badge/linkedin-@anand--pratap707-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/anand-pratap707)
 [![github](https://img.shields.io/badge/github-@anandsingh07-black?style=flat-square&logo=github)](https://github.com/anandsingh07)
-[![gmail](https://img.shields.io/badge/email-anandsingh887472-black?style=flat-square&logo=gmail)](mailto:anandsingh887472@gmail.com)
+
 
 
 </div>
