@@ -1,6 +1,6 @@
 <div align="center">
 
-# anand singh 🔗
+# Anand Singh 🔗
 #### fullstack dev · blockchain builder · web3 engineer
 
 ![open to work](https://img.shields.io/badge/open%20to%20work-✓-black?style=flat-square)
