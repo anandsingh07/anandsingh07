@@ -51,6 +51,9 @@
 ![Prisma](https://img.shields.io/badge/Prisma-black?style=flat-square&logo=prisma)
 ![Ethereum](https://img.shields.io/badge/Ethereum-black?style=flat-square&logo=ethereum)
 ![Foundry](https://img.shields.io/badge/Foundry-black?style=flat-square&logo=ethereum)
+![Redis](https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis)
+![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel)
 
 ---
 
