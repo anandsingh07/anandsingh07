@@ -1,18 +1,100 @@
-# 💫 About Me:
-Working with p2p.me as technical contributor ,<br>blockchain developer ,<br>learning solana <br>
+<h1 align="center">Hey, I'm Anand Singh 👋</h1>
 
+<p align="center">
+  <b>Full-Stack Developer · Blockchain Developer · Web3 Engineer</b>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anand-pratap707) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@web3fi_anand) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhanand33384@gmail.com) 
-
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anandsingh07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anandsingh07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anandsingh07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="mailto:anandsingh887472@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com">💼 LinkedIn</a> •
+  <a href="https://github.com">🐙 GitHub</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anandsingh07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+I'm a Full-Stack and Web3 Developer passionate about building decentralized systems and production-grade applications. I work at the intersection of traditional web development and blockchain technology — from smart contract wallets and DeFi protocols to real-time web apps.
+
+Currently contributing to **p2p.me (Forge Cipher)** — an open-source protocol enabling instant USDC-to-fiat payments via global rails (UPI, PIX, QRIS).
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer | Technologies |
+|---|---|
+| **Languages** | TypeScript, Solidity, Rust (Fundamentals) |
+| **Frontend** | Next.js, SSR/ISR, React |
+| **Backend** | Node.js, Express, JWT Auth, RESTful APIs |
+| **Blockchain & Web3** | Ethereum, ERC-4337, ERC-20, ERC-721, Ethers.js, Foundry |
+| **Databases** | MongoDB, PostgreSQL, Prisma, Redis |
+| **DevOps & Tools** | Git, GitHub, Vercel, Netlify |
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 [NexusPAY — Smart Contract Wallet](https://github.com)
+> `Solidity` `Foundry` `ERC-4337` `Next.js` `TypeScript`
+
+A production-ready **ERC-4337 Smart Account** that lets users log in with Google via Web3Auth — no seed phrases needed.
+
+- Modular Solidity contracts with a `CREATE2` factory for deterministic counterfactual addresses
+- Custom signature validation & Pimlico Paymaster integration for **gasless transactions**
+- Seamless Web3 UX without sacrificing decentralization
+
+---
+
+### ✍️ [WriteSpace — Blogging Platform](https://github.com)
+> `Next.js` `TypeScript` `Prisma` `PostgreSQL`
+
+A full-stack blogging platform built for scale and performance.
+
+- Rich-text editing with TipTap, authentication, and comments
+- SSR + ISR with Next.js — **40% reduction in page load times**
+- Scalable REST APIs supporting **1000+ concurrent users**
+
+---
+
+### 🌐 [SmartFundIT — Crowdfunding Platform](https://github.com)
+> `Solidity` `React` `Ethers.js`
+
+A decentralized, trustless crowdfunding platform on Ethereum.
+
+- Trustless contribution & withdrawal logic via Solidity smart contracts
+- Milestone-based fund release with **multi-signature approval**
+- Direct smart contract interaction via Ethers.js
+
+---
+
+### 💬 [Real-Time Chat Application](https://github.com)
+> `MERN Stack` `Socket.IO` `Redis`
+
+A full-featured real-time messaging app.
+
+- Group & personal messaging with WebSockets and Socket.IO
+- JWT authentication + MongoDB message persistence
+- **Redis caching** for improved performance at scale
+
+---
+
+## 📜 Certifications
+
+- 🏅 **Blockchain Basics** — Cyfrin Updraft *(Solidity, Smart Contracts, Ethereum fundamentals)*
+- 🏅 **Uniswap V3** — Cyfrin Updraft *(Concentrated liquidity, tick math, range orders, DeFi concepts)*
+
+---
+
+## 📈 Experience
+
+**Protocol Contributor @ Forge Cipher / p2p.me** *(2026 · Remote)*
+- Contributing features and fixes to an open-source Web3 protocol enabling USDC-to-fiat payments
+- Collaborating with a distributed team to maintain contribution standards and developer onboarding resources
+
+---
+
+<p align="center">
+  <i>Open to Web3, Full-Stack, and Protocol Engineering opportunities.</i><br/>
+  <b>Let's build something decentralized. 🚀</b>
+</p>
