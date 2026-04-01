@@ -1,89 +1,18 @@
-<div align="center">
-
-# Anand Singh 🔗
-#### fullstack dev · blockchain builder · web3 engineer
-
-![open to work](https://img.shields.io/badge/open%20to%20work-✓-black?style=flat-square)
-[![linkedin](https://img.shields.io/badge/linkedin-@anand--pratap707-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/anand-pratap707)
-[![github](https://img.shields.io/badge/github-@anandsingh07-black?style=flat-square&logo=github)](https://github.com/anandsingh07)
+# 💫 About Me:
+Working with p2p.me as technical contributor ,<br>blockchain developer ,<br>learning solana <br>
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anand-pratap707) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@web3fi_anand) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhanand33384@gmail.com) 
 
-</div>
-
----
-
-### 🔥 streak (no cap)
-
-<div align="center">
-
-[![streak](https://streak-stats.demolab.com?user=anandsingh07&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
-</div>
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anandsingh07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=anandsingh07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anandsingh07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=anandsingh07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📊 stats (lowkey bussin)
-
-<div align="center">
-
-![stats](https://github-readme-stats.vercel.app/api?username=anandsingh07&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandsingh07&layout=compact&theme=dark&hide_border=true)
-
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=anandsingh07&theme=github-compact&hide_border=true)
-
-</div>
-
----
-
-### 🛠️ stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
-![Solidity](https://img.shields.io/badge/Solidity-black?style=flat-square&logo=solidity)
-![Rust](https://img.shields.io/badge/Rust_(basics)-black?style=flat-square&logo=rust)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
-![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=flat-square&logo=tailwind-css)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)
-![Prisma](https://img.shields.io/badge/Prisma-black?style=flat-square&logo=prisma)
-![Ethereum](https://img.shields.io/badge/Ethereum-black?style=flat-square&logo=ethereum)
-![Foundry](https://img.shields.io/badge/Foundry-black?style=flat-square&logo=ethereum)
-![Redis](https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis)
-![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel)
-
----
-
-### 🚀 projects (the real ones)
-
-| | project | what it does | link |
-|---|---------|-------------|------|
-| 💳 | **NexusPAY** | ERC-4337 smart account · social login · gasless txns via Pimlico | [↗ live](https://paynexus.netlify.app/) |
-| ✍️ | **WriteSpace** | full-stack blog · SSR/ISR · 40% faster · 1000+ concurrent users | [↗ live](https://blog-app-eta-beige.vercel.app/) |
-| 🤝 | **SmartFundIT** | defi crowdfunding · milestone release · multi-sig security | [↗ github](https://github.com/anandsingh07) |
-| 💬 | **ChatApp** | real-time group & DM · socket.io · redis caching · JWT auth | [↗ live](https://group-personal-chatting-app.vercel.app/signin) |
-
----
-
-### 💼 xp
-
-**protocol contributor** @ [forge cipher — p2p.me](https://p2p.me) `2026 · remote`
-> contributing to instant USDC-to-fiat payments via UPI, PIX, QRIS · full dev workflow · open source web3
-
----
-
-### 🏆 certs
-
-![blockchain basics](https://img.shields.io/badge/blockchain%20basics-cyfrin%20updraft-black?style=flat-square)
-![uniswap v3](https://img.shields.io/badge/uniswap%20v3-cyfrin%20updraft-black?style=flat-square)
-
----
-
-<div align="center">
-
-*on-chain. always. 🔗*
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
