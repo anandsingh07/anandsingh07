@@ -22,14 +22,42 @@ Currently contributing to **p2p.me (Forge Cipher)** — an open-source protocol 
 
 ## 🛠️ Tech Stack
 
-| Layer | Technologies |
-|---|---|
-| **Languages** | TypeScript, Solidity, Rust (Fundamentals) |
-| **Frontend** | Next.js, SSR/ISR, React |
-| **Backend** | Node.js, Express, JWT Auth, RESTful APIs |
-| **Blockchain & Web3** | Ethereum, ERC-4337, ERC-20, ERC-721, Ethers.js, Foundry |
-| **Databases** | MongoDB, PostgreSQL, Prisma, Redis |
-| **DevOps & Tools** | Git, GitHub, Vercel, Netlify |
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Blockchain & Web3**
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-FF6B35?style=for-the-badge&logo=ethereum&logoColor=white)
+![ERC-4337](https://img.shields.io/badge/ERC--4337-8B5CF6?style=for-the-badge&logo=ethereum&logoColor=white)
+
+**Databases & Caching**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+**DevOps & Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
