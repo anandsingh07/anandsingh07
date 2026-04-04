@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="mailto:anandsingh887472@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com">💼 LinkedIn</a> •
-  <a href="https://github.com">🐙 GitHub</a>
+  <a href="https://linkedin.com/in/anand-pratap707">💼 LinkedIn</a> •
+  
 </p>
 
 ---
