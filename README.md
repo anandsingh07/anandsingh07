@@ -1,22 +1,66 @@
 <h1 align="center">Hey, I'm Anand Singh 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Developer · Blockchain Developer · Web3 Engineer</b>
+  <b>Backend & Web3 Engineer — distributed systems, payments infrastructure, and smart contracts</b>
 </p>
 
 <p align="center">
   <a href="mailto:anandsingh887472@gmail.com">📧 Email</a> •
   <a href="https://linkedin.com/in/anand-pratap707">💼 LinkedIn</a> •
-  
+  <a href="https://github.com/anandsingh07">🐙 GitHub</a>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a Full-Stack and Web3 Developer passionate about building decentralized systems and production-grade applications. I work at the intersection of traditional web development and blockchain technology — from smart contract wallets and DeFi protocols to real-time web apps.
+I build production-grade backend systems and decentralized applications — the kind where correctness under concurrency, idempotency, and failure recovery actually matter.
 
-Currently contributing to **p2p.me (Forge Cipher)** — an open-source protocol enabling instant USDC-to-fiat payments via global rails (UPI, PIX, QRIS).
+- 🏗️ Currently at **[P2P.me](https://p2p.me)** — an open-source protocol for instant USDC-to-fiat payments over global rails (UPI, PIX, QRIS)
+- ⚙️ I like the hard parts: exactly-once scheduling, out-of-order event correction, semantic caching, gas-efficient contracts
+- 🌐 Comfortable across the stack — Solidity/EVM on-chain, Node/TypeScript services in the middle, Next.js/React on top
+- 🦀 Currently leveling up in **Rust**
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 [SemanticCache](https://github.com/anandsingh07/semanticcache)
+*"Redis, but for AI responses."* A semantic caching proxy for LLM APIs — exact-match hits via Redis in ~7ms, semantically-similar prompts matched via pgvector ANN search (HNSW, cosine), full cost/token accounting, TTL + per-namespace LRU eviction.
+`TypeScript · Redis · PostgreSQL/pgvector · Embeddings`
+
+### ⚡ [ChainPulse — Real-Time Event Streaming & Analytics](https://github.com/anandsingh07/cross-chain-indexer)
+Horizontally-scalable pipeline that ingests high-throughput blockchain events, persists them **idempotently**, and automatically compensates for chain reorgs (out-of-order / retracted upstream events) with a rolling sequence ledger. Serves live data over REST, GraphQL & WebSocket with Prometheus observability.
+`TypeScript · PostgreSQL · EVM · GraphQL · Prometheus`
+
+### 🐝 [CronHive — Distributed Cron Scheduler](https://github.com/anandsingh07/cronHive)
+Fault-tolerant distributed scheduler with **exactly-once firing per slot** (DB-level `UNIQUE(jobId, scheduledFor)` guard proven by concurrency tests), at-least-once HTTP delivery, exponential-backoff retries, dead-letter queues, circuit breakers, and leader election with automatic failover.
+`Node 22 · TypeScript · BullMQ · PostgreSQL/Prisma · Redis`
+
+### 🔐 [NexusPAY — Smart Contract Wallet](https://github.com/anandsingh07/NexusPAY)
+Smart contract wallet built around account-abstraction patterns (ERC-4337 style flows).
+`Solidity · Foundry`
+
+### ✍️ [Ethereum Off-Chain Signature Verification](https://github.com/anandsingh07/ethereum-offchain-signature-verification)
+Off-chain ECDSA message signing with on-chain verification — the authorization primitive behind meta-transactions, permits, and account abstraction.
+`Solidity · JavaScript · Ethers.js`
+
+### 💸 [P2P Merchant Terminal](https://github.com/anandsingh07/-p2p-merchant-terminal)
+Merchant-facing payment terminal for crypto-to-fiat flows. [Live demo →](https://p2p-merchant-terminal.vercel.app)
+`TypeScript · Next.js`
+
+<details>
+<summary><b>More projects…</b></summary>
+
+- 🏦 [EthVault](https://github.com/anandsingh07/EthVault) — gas-efficient ETH deposit/withdrawal vault with full Hardhat test coverage
+- 🤝 [SmartFundIT](https://github.com/anandsingh07/SMARTFUND-IT) — fully decentralized crowdfunding dApp (campaigns, contributions, goal-based withdraw/refund) with zero centralized backend
+- 📈 [Staking dApp](https://github.com/anandsingh07/Staking-Dapp) — ETH staking with live balances (React + Solidity + Hardhat)
+- 🔗 [URL Shortener](https://github.com/anandsingh07/URL-Shortner) — full-stack TypeScript URL shortener ([live](https://url-shortner-psi-ten.vercel.app))
+- 📊 [Crypto Analytics Dashboard](https://github.com/anandsingh07/cryptoAnalytic-Dashboard) — real-time market analytics
+- 💬 [Group & Personal Chat App](https://github.com/anandsingh07/Group-Personal--Chatting-App) — real-time messaging ([live](https://group-personal-chatting-app.vercel.app))
+- 🦀 [rust-prep](https://github.com/anandsingh07/rust-prep) — my Rust learning journey
+
+</details>
 
 ---
 
@@ -27,102 +71,56 @@ Currently contributing to **p2p.me (Forge Cipher)** — an open-source protocol 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Backend**
+**Backend & Infra**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+**Databases & Caching**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Blockchain & Web3**
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-FF6B35?style=for-the-badge&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black)
 ![ERC-4337](https://img.shields.io/badge/ERC--4337-8B5CF6?style=for-the-badge&logo=ethereum&logoColor=white)
 
-**Databases & Caching**
+**Frontend & Deploy**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-**DevOps & Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔐 [NexusPAY — Smart Contract Wallet](https://github.com)
-> `Solidity` `Foundry` `ERC-4337` `Next.js` `TypeScript`
-
-A production-ready **ERC-4337 Smart Account** that lets users log in with Google via Web3Auth — no seed phrases needed.
-
-- Modular Solidity contracts with a `CREATE2` factory for deterministic counterfactual addresses
-- Custom signature validation & Pimlico Paymaster integration for **gasless transactions**
-- Seamless Web3 UX without sacrificing decentralization
-
----
-
-### ✍️ [WriteSpace — Blogging Platform](https://github.com)
-> `Next.js` `TypeScript` `Prisma` `PostgreSQL`
-
-A full-stack blogging platform built for scale and performance.
-
-- Rich-text editing with TipTap, authentication, and comments
-- SSR + ISR with Next.js — **40% reduction in page load times**
-- Scalable REST APIs supporting **1000+ concurrent users**
-
----
-
-### 🌐 [SmartFundIT — Crowdfunding Platform](https://github.com)
-> `Solidity` `React` `Ethers.js`
-
-A decentralized, trustless crowdfunding platform on Ethereum.
-
-- Trustless contribution & withdrawal logic via Solidity smart contracts
-- Milestone-based fund release with **multi-signature approval**
-- Direct smart contract interaction via Ethers.js
-
----
-
-### 💬 [Real-Time Chat Application](https://github.com)
-> `MERN Stack` `Socket.IO` `Redis`
-
-A full-featured real-time messaging app.
-
-- Group & personal messaging with WebSockets and Socket.IO
-- JWT authentication + MongoDB message persistence
-- **Redis caching** for improved performance at scale
-
----
-
-## 📜 Certifications
-
-- 🏅 **Blockchain Basics** — Cyfrin Updraft *(Solidity, Smart Contracts, Ethereum fundamentals)*
-- 🏅 **Uniswap V3** — Cyfrin Updraft *(Concentrated liquidity, tick math, range orders, DeFi concepts)*
-
----
-
-## 📈 Experience
-
-**Protocol Contributor @ Forge Cipher / p2p.me** *(2026 · Remote)*
-- Contributing features and fixes to an open-source Web3 protocol enabling USDC-to-fiat payments
-- Collaborating with a distributed team to maintain contribution standards and developer onboarding resources
-
----
+## 📊 GitHub Stats
 
 <p align="center">
-  <i>Open to Web3, Full-Stack, and Protocol Engineering opportunities.</i><br/>
-  <b>Let's build something decentralized. 🚀</b>
+  <img src="https://github-readme-stats.vercel.app/api?username=anandsingh07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandsingh07&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="165"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandsingh07&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+---
+
+## 📫 Reach Me
+
+- 📧 **Email:** [anandsingh887472@gmail.com](mailto:anandsingh887472@gmail.com)
+- 💼 **LinkedIn:** [anand-pratap707](https://linkedin.com/in/anand-pratap707)
+
+<p align="center"><i>Building the rails where web2 reliability meets web3 trustlessness.</i></p>
