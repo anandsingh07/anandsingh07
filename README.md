@@ -6,39 +6,13 @@
 
 </div>
 
-```text
-                   ffLLC
-                t;..'''i;1f                                 anand@github
-                 :'     ':;
-                'ifCGCf1::.                              --------------------------------------------
-              ifC008880Gt                                   OS: .............. Windows 11, Ubuntu 24.04
-             .1fLC00CffLCt   ..                             Uptime: .......... 2 years, 0 months, 19 days
-             '::;:i0CftLGGtLfi:                             Host: ............ P2P.me - payment rails on Base
-             :itft:GG08880CG0fi                             Kernel: .......... Backend & Web3 Engineer
-            .:fGG1;fC0880GCGGti                             IDE: ............. VS Code, Hardhat, Foundry
-             ';tf;'tLCLGGGLLL1
-             t;;;;;tfCGGCLfi;                               Languages.Code: .. TypeScript, Solidity, Rust,
-               1;;iftfCLfLCC                                                   JavaScript, SQL
-               f;;i;;i1fCGG                                 Languages.Web: ... HTML, CSS, JSON, YAML
-               Li:;i1fCGGGG@0f8@@@@8                        Languages.Real: .. English, Hindi
-               ti;i1tLCGGCC@L:C088@@@8888@@@
-              GL11;;1tLLL1f1.iCG0G8@@880888@@@              Things.I.Like: ... exactly-once schedulers,
-            @@88LfG    .';1:'f0@@@@0@8800888@@@@                               reorg-safe indexers,
-         ttt0@@@LC0f::'';0t:'1G0@@@808@808888888@8                             gas-efficient contracts,
-       @Gftf0@@@fL00''::L8t:'i0GG@@@8008888888888@8;                           semantic caches
-     t@80GtfC@@@f1081'':881::;@8G0@@88008888088888@G
-    Gf8@8Cftf@@@f'00L''1@81::'@@0C8@@8808888G888888@        Contact:
-    1f0@8Lf1t@@@L'L80:1L@8i:::G@@G08@888888008088888        Email: ........... anandsingh887472@gmail.com
-   Lt1C@8fL1tG@@C::00f'C88t::'L@@8088888888808088808        GitHub: .......... anandsingh07
-   i11f88fLfff@@C:';Lt 888t'''1@@8088888888880G088008       LinkedIn: ........ anand-pratap707
-   t11100ftGCt8@G:'''f;@00:..''8@@808888888880G0888G8
-   if11C0ft00tC@0'''  ;@8L...''t8@888808888880C0000G8       GitHub Stats:
-  i;Ci1tC1tG8Lf@0'''  i@0t...'''08888800888888CG00000       Repos: ........... 33 { 26 sources | 7 forks }
-  iiLti1111C8Gt88'.'. ;80:...'':i08088880888880G00000       Commits: ......... 70+ | Followers: 9
-  11fLii111L80tG8'.'' i@G'....':'t8008888888888G00000G      Focus: ........... Web3 - Payments - Infra
-  tfLf1ii11C88tL@'... i80'....'':.f0088888888880CGGGGG
- ttfL111111C88ft@'... .;:'....''::.LG08888888888LtGGGG
-```
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.svg">
+    <img alt="anand@github - ASCII self-portrait neofetch card" src="assets/terminal-dark.svg">
+  </picture>
+</div>
 
 <p align="center">
   <a href="mailto:anandsingh887472@gmail.com">📧 Email</a> •
