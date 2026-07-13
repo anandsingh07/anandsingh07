@@ -6,6 +6,14 @@
   </picture>
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/portrait-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/portrait-light.svg">
+    <img alt="ASCII self-portrait printing line by line, with identity card" src="assets/portrait-dark.svg" width="100%">
+  </picture>
+</div>
+
 <p align="center">
   <samp>
     <a href="mailto:anandsingh887472@gmail.com">email</a> &nbsp;·&nbsp;
@@ -96,7 +104,15 @@ Right now I'm at **[P2P.me](https://p2p.me)**, building open payment rails that 
   </picture>
 </div>
 
-## <samp>$ git log --stat</samp>
+## <samp>$ git log --graph</samp>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
+    <img alt="3D contribution graph" src="profile-3d-contrib/profile-night-green.svg" width="100%">
+  </picture>
+</div>
 
 <div align="center">
   <picture>

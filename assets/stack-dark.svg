@@ -1,77 +1,180 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="218" viewBox="0 0 900 218" role="img" aria-label="Tech stack">
-  <rect x="0.5" y="0.5" width="899" height="217" rx="12" fill="#10151D" stroke="#30363D"/>
-  <text x="24" y="54" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="1.5" fill="#4D8DFF">LANGUAGES</text>
-<rect x="168" y="38" width="95" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
-<circle cx="182" cy="51" r="3.5" fill="#3178C6"/>
-<text x="191" y="55.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#E6EDF3">TypeScript</text>
-<rect x="271" y="38" width="95" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
-<circle cx="285" cy="51" r="3.5" fill="#F1E05A"/>
-<text x="294" y="55.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#E6EDF3">JavaScript</text>
-<rect x="374" y="38" width="82" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
-<circle cx="388" cy="51" r="3.5" fill="#AA6746"/>
-<text x="397" y="55.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#E6EDF3">Solidity</text>
-<rect x="464" y="38" width="55" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
-<circle cx="478" cy="51" r="3.5" fill="#DEA584"/>
-<text x="487" y="55.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#E6EDF3">Rust</text>
-<rect x="527" y="38" width="48" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
-<circle cx="541" cy="51" r="3.5" fill="#E38C00"/>
-<text x="550" y="55.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#E6EDF3">SQL</text>
-<text x="24" y="100" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="1.5" fill="#4D8DFF">BACKEND / DATA</text>
-<rect x="168" y="84" width="75" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
-<circle cx="182" cy="97" r="3.5" fill="#5FA04E"/>
-<text x="191" y="101.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#E6EDF3">Node.js</text>
-<rect x="251" y="84" width="75" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
-<circle cx="265" cy="97" r="3.5" fill="#E10098"/>
-<text x="274" y="101.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#E6EDF3">GraphQL</text>
-<rect x="334" y="84" width="68" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
-<circle cx="348" cy="97" r="3.5" fill="#DC382D"/>
-<text x="357" y="101.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#E6EDF3">BullMQ</text>
-<rect x="410" y="84" width="95" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
-<circle cx="424" cy="97" r="3.5" fill="#336791"/>
-<text x="433" y="101.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#E6EDF3">PostgreSQL</text>
-<rect x="513" y="84" width="62" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
-<circle cx="527" cy="97" r="3.5" fill="#DC382D"/>
-<text x="536" y="101.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#E6EDF3">Redis</text>
-<rect x="583" y="84" width="68" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
-<circle cx="597" cy="97" r="3.5" fill="#4C51BF"/>
-<text x="606" y="101.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#E6EDF3">Prisma</text>
-<rect x="659" y="84" width="75" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
-<circle cx="673" cy="97" r="3.5" fill="#47A248"/>
-<text x="682" y="101.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#E6EDF3">MongoDB</text>
-<rect x="742" y="84" width="95" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
-<circle cx="756" cy="97" r="3.5" fill="#E6522C"/>
-<text x="765" y="101.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#E6EDF3">Prometheus</text>
-<text x="24" y="146" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="1.5" fill="#4D8DFF">CHAIN</text>
-<rect x="168" y="130" width="122" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
-<circle cx="182" cy="143" r="3.5" fill="#8B7CF6"/>
-<text x="191" y="147.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#E6EDF3">Ethereum / EVM</text>
-<rect x="298" y="130" width="55" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
-<circle cx="312" cy="143" r="3.5" fill="#0052FF"/>
-<text x="321" y="147.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#E6EDF3">Base</text>
-<rect x="361" y="130" width="88" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
-<circle cx="375" cy="143" r="3.5" fill="#5C6BC0"/>
-<text x="384" y="147.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#E6EDF3">Ethers.js</text>
-<rect x="457" y="130" width="75" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
-<circle cx="471" cy="143" r="3.5" fill="#F0D91D"/>
-<text x="480" y="147.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#E6EDF3">Hardhat</text>
-<rect x="540" y="130" width="75" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
-<circle cx="554" cy="143" r="3.5" fill="#FF6B35"/>
-<text x="563" y="147.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#E6EDF3">Foundry</text>
-<rect x="623" y="130" width="82" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
-<circle cx="637" cy="143" r="3.5" fill="#A371F7"/>
-<text x="646" y="147.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#E6EDF3">ERC-4337</text>
-<text x="24" y="192" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="1.5" fill="#4D8DFF">FRONTEND / SHIP</text>
-<rect x="168" y="176" width="75" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
-<circle cx="182" cy="189" r="3.5" fill="#9CA3AF"/>
-<text x="191" y="193.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#E6EDF3">Next.js</text>
-<rect x="251" y="176" width="62" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
-<circle cx="265" cy="189" r="3.5" fill="#61DAFB"/>
-<text x="274" y="193.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#E6EDF3">React</text>
-<rect x="321" y="176" width="68" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
-<circle cx="335" cy="189" r="3.5" fill="#9CA3AF"/>
-<text x="344" y="193.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#E6EDF3">Vercel</text>
-<rect x="397" y="176" width="122" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
-<circle cx="411" cy="189" r="3.5" fill="#2088FF"/>
-<text x="420" y="193.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#E6EDF3">GitHub Actions</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="234" viewBox="0 0 900 234" role="img" aria-label="Tech stack board">
+  <defs>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4D8DFF"/>
+      <stop offset="0.55" stop-color="#00D395"/>
+      <stop offset="1" stop-color="#00D395" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="899" height="233" rx="12" fill="#10151D" stroke="#30363D"/>
 
+  <text x="24" y="30" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13"><tspan fill="#00FF9D">$</tspan><tspan fill="#E6EDF3" font-weight="bold" dx="8">stack</tspan><tspan fill="#8B949E" dx="8">--list --all</tspan></text>
+  <text x="876" y="30" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#8B949E">23 tools <tspan fill="#FF2D95">&#183;</tspan> 4 groups</text>
+  <rect x="24" y="41" width="852" height="1.5" fill="url(#rule)"/>
+
+  <text x="24" y="79" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="2" fill="#00E5FF">LANGUAGES</text>
+  <g>
+    <rect x="170" y="62" width="99" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
+    <circle cx="183" cy="75" r="3.5" fill="#3178C6">
+      <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="0.00s" repeatCount="indefinite"/>
+    </circle>
+    <text x="192" y="79.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">TypeScript</text>
+  </g>
+  <g>
+    <rect x="277" y="62" width="99" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
+    <circle cx="290" cy="75" r="3.5" fill="#F1E05A">
+      <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-0.73s" repeatCount="indefinite"/>
+    </circle>
+    <text x="299" y="79.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">JavaScript</text>
+  </g>
+  <g>
+    <rect x="384" y="62" width="85" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
+    <circle cx="397" cy="75" r="3.5" fill="#AA6746">
+      <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-1.46s" repeatCount="indefinite"/>
+    </circle>
+    <text x="406" y="79.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">Solidity</text>
+  </g>
+  <g>
+    <rect x="477" y="62" width="58" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
+    <circle cx="490" cy="75" r="3.5" fill="#DEA584">
+      <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-2.19s" repeatCount="indefinite"/>
+    </circle>
+    <text x="499" y="79.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">Rust</text>
+  </g>
+  <g>
+    <rect x="543" y="62" width="51" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
+    <circle cx="556" cy="75" r="3.5" fill="#E38C00">
+      <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-2.92s" repeatCount="indefinite"/>
+    </circle>
+    <text x="565" y="79.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">SQL</text>
+  </g>
+  <text x="24" y="121" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="2" fill="#00E5FF">BACKEND / DATA</text>
+  <g>
+    <rect x="170" y="104" width="79" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
+    <circle cx="183" cy="117" r="3.5" fill="#5FA04E">
+      <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-0.65s" repeatCount="indefinite"/>
+    </circle>
+    <text x="192" y="121.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">Node.js</text>
+  </g>
+  <g>
+    <rect x="257" y="104" width="79" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
+    <circle cx="270" cy="117" r="3.5" fill="#E10098">
+      <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-1.38s" repeatCount="indefinite"/>
+    </circle>
+    <text x="279" y="121.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">GraphQL</text>
+  </g>
+  <g>
+    <rect x="344" y="104" width="72" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
+    <circle cx="357" cy="117" r="3.5" fill="#DC382D">
+      <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-2.11s" repeatCount="indefinite"/>
+    </circle>
+    <text x="366" y="121.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">BullMQ</text>
+  </g>
+  <g>
+    <rect x="424" y="104" width="99" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
+    <circle cx="437" cy="117" r="3.5" fill="#336791">
+      <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-2.84s" repeatCount="indefinite"/>
+    </circle>
+    <text x="446" y="121.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">PostgreSQL</text>
+  </g>
+  <g>
+    <rect x="531" y="104" width="65" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
+    <circle cx="544" cy="117" r="3.5" fill="#DC382D">
+      <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-0.57s" repeatCount="indefinite"/>
+    </circle>
+    <text x="553" y="121.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">Redis</text>
+  </g>
+  <g>
+    <rect x="604" y="104" width="72" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
+    <circle cx="617" cy="117" r="3.5" fill="#4C51BF">
+      <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-1.30s" repeatCount="indefinite"/>
+    </circle>
+    <text x="626" y="121.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">Prisma</text>
+  </g>
+  <g>
+    <rect x="684" y="104" width="79" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
+    <circle cx="697" cy="117" r="3.5" fill="#47A248">
+      <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-2.03s" repeatCount="indefinite"/>
+    </circle>
+    <text x="706" y="121.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">MongoDB</text>
+  </g>
+  <g>
+    <rect x="771" y="104" width="99" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
+    <circle cx="784" cy="117" r="3.5" fill="#E6522C">
+      <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-2.76s" repeatCount="indefinite"/>
+    </circle>
+    <text x="793" y="121.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">Prometheus</text>
+  </g>
+  <text x="24" y="163" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="2" fill="#00E5FF">CHAIN</text>
+  <g>
+    <rect x="170" y="146" width="126" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
+    <circle cx="183" cy="159" r="3.5" fill="#8B7CF6">
+      <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-0.49s" repeatCount="indefinite"/>
+    </circle>
+    <text x="192" y="163.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">Ethereum / EVM</text>
+  </g>
+  <g>
+    <rect x="304" y="146" width="58" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
+    <circle cx="317" cy="159" r="3.5" fill="#0052FF">
+      <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-1.22s" repeatCount="indefinite"/>
+    </circle>
+    <text x="326" y="163.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">Base</text>
+  </g>
+  <g>
+    <rect x="370" y="146" width="92" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
+    <circle cx="383" cy="159" r="3.5" fill="#5C6BC0">
+      <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-1.95s" repeatCount="indefinite"/>
+    </circle>
+    <text x="392" y="163.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">Ethers.js</text>
+  </g>
+  <g>
+    <rect x="470" y="146" width="79" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
+    <circle cx="483" cy="159" r="3.5" fill="#F0D91D">
+      <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-2.68s" repeatCount="indefinite"/>
+    </circle>
+    <text x="492" y="163.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">Hardhat</text>
+  </g>
+  <g>
+    <rect x="557" y="146" width="79" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
+    <circle cx="570" cy="159" r="3.5" fill="#FF6B35">
+      <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-0.41s" repeatCount="indefinite"/>
+    </circle>
+    <text x="579" y="163.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">Foundry</text>
+  </g>
+  <g>
+    <rect x="644" y="146" width="85" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
+    <circle cx="657" cy="159" r="3.5" fill="#A371F7">
+      <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-1.14s" repeatCount="indefinite"/>
+    </circle>
+    <text x="666" y="163.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">ERC-4337</text>
+  </g>
+  <text x="24" y="205" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="2" fill="#00E5FF">FRONTEND / SHIP</text>
+  <g>
+    <rect x="170" y="188" width="79" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
+    <circle cx="183" cy="201" r="3.5" fill="#9CA3AF">
+      <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-1.87s" repeatCount="indefinite"/>
+    </circle>
+    <text x="192" y="205.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">Next.js</text>
+  </g>
+  <g>
+    <rect x="257" y="188" width="65" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
+    <circle cx="270" cy="201" r="3.5" fill="#61DAFB">
+      <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-2.60s" repeatCount="indefinite"/>
+    </circle>
+    <text x="279" y="205.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">React</text>
+  </g>
+  <g>
+    <rect x="330" y="188" width="72" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
+    <circle cx="343" cy="201" r="3.5" fill="#9CA3AF">
+      <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-0.33s" repeatCount="indefinite"/>
+    </circle>
+    <text x="352" y="205.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">Vercel</text>
+  </g>
+  <g>
+    <rect x="410" y="188" width="126" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
+    <circle cx="423" cy="201" r="3.5" fill="#2088FF">
+      <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-1.06s" repeatCount="indefinite"/>
+    </circle>
+    <text x="432" y="205.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">GitHub Actions</text>
+  </g>
 </svg>

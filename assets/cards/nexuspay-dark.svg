@@ -1,19 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="440" height="150" viewBox="0 0 440 150" role="img" aria-label="NexusPAY">
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="150" viewBox="0 0 440 150" role="img" aria-label="NexusPAY - project card">
+  <defs>
+    <linearGradient id="ab-nexuspay" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4D8DFF"/>
+      <stop offset="1" stop-color="#00D395"/>
+    </linearGradient>
+    <clipPath id="cc-nexuspay">
+      <rect x="0.5" y="0.5" width="439" height="149" rx="10"/>
+    </clipPath>
+  </defs>
+
   <rect x="0.5" y="0.5" width="439" height="149" rx="10" fill="#10151D" stroke="#30363D"/>
-  <rect x="0.5" y="14" width="3" height="34" rx="1.5" fill="#A371F7"/>
-  <circle cx="26" cy="31" r="5" fill="#A371F7"/>
-  <text x="42" y="36" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="16" font-weight="bold" fill="#E6EDF3">NexusPAY</text>
-  <text x="420" y="34" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#8B949E">&#8599;</text>
-  <text x="22" y="66" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#8B949E">Smart-contract wallet built on account-abstraction</text>
-  <text x="22" y="84" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#8B949E">patterns - ERC-4337 style flows, tested with Foundry.</text>
-  <g>
-      <rect x="20" y="108" width="80" height="24" rx="12" fill="#161B22" stroke="#30363D"/>
-      <circle cx="33" cy="120" r="3.5" fill="#AA6746"/>
-      <text x="42" y="124" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#8B949E">Solidity</text>
+
+  <g clip-path="url(#cc-nexuspay)">
+    <rect x="0.5" y="0.5" width="3" height="149" fill="url(#ab-nexuspay)"/>
+  </g>
+
+  <g clip-path="url(#cc-nexuspay)">
+    <g transform="translate(-220 0)">
+      <animateTransform attributeName="transform" type="translate" values="-220 0;560 0" dur="6s" begin="1.2s" repeatCount="indefinite"/>
+      <polygon points="90,0 152,0 62,150 0,150" fill="#FFFFFF" opacity="0.035"/>
     </g>
+  </g>
+  <!-- status dot: pulse + ping ring -->
+  <circle cx="27" cy="26" r="5" fill="none" stroke="#A371F7" stroke-width="1.5" opacity="0">
+    <animate attributeName="r" values="5;11" dur="2.6s" begin="1.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0" dur="2.6s" begin="1.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="27" cy="26" r="5.25" fill="#A371F7">
+    <animate attributeName="r" values="4.5;6;4.5" dur="2.6s" begin="1.2s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+  </circle>
+
+  <text x="44" y="31" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" font-weight="bold" fill="#E6EDF3">NexusPAY</text>
+  <text x="422" y="30" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#8B949E">&#8599;</text>
+  <text x="44" y="47" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#8B949E">anandsingh07/NexusPAY</text>
+
+  <text x="22" y="72" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#8B949E">Smart-contract wallet built on account-abstraction</text>
+  <text x="22" y="89" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#8B949E">patterns - ERC-4337 style flows, tested with Foundry.</text>
+
   <g>
-      <rect x="108" y="108" width="73" height="24" rx="12" fill="#161B22" stroke="#30363D"/>
-      <circle cx="121" cy="120" r="3.5" fill="#FF6B35"/>
-      <text x="130" y="124" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#8B949E">Foundry</text>
-    </g>
+    <rect x="20" y="108" width="85" height="24" rx="12" fill="#161B22" stroke="#30363D"/>
+    <circle cx="33" cy="120" r="3.5" fill="#AA6746"/>
+    <text x="42" y="124" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#8B949E">Solidity</text>
+  </g>
+  <g>
+    <rect x="113" y="108" width="79" height="24" rx="12" fill="#161B22" stroke="#30363D"/>
+    <circle cx="126" cy="120" r="3.5" fill="#FF6B35"/>
+    <text x="135" y="124" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#8B949E">Foundry</text>
+  </g>
 </svg>

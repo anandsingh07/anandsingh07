@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="540" viewBox="0 0 900 540" role="img" aria-label="Self-printing ASCII portrait of Anand Singh with neofetch-style profile info">
+<title>anand@github: ~/identity.ascii</title>
+<defs>
+<linearGradient id="scanG" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#0E8A6D" stop-opacity="0"/>
+  <stop offset="0.5" stop-color="#0E8A6D" stop-opacity="0.22"/>
+  <stop offset="1" stop-color="#0E8A6D" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="scanLead" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#0E8A6D" stop-opacity="0"/>
+  <stop offset="0.5" stop-color="#0E8A6D" stop-opacity="0.5"/>
+  <stop offset="1" stop-color="#0E8A6D" stop-opacity="0"/>
+</linearGradient>
+</defs>
+<rect x="1" y="1" width="898" height="538" rx="14" fill="#FFFFFF" stroke="#D0D7DE"/>
+<path d="M15,1 h870 a14,14 0 0 1 14,14 v21 h-898 v-21 a14,14 0 0 1 14,-14 z" fill="#F6F8FA"/>
+<line x1="1" y1="36" x2="899" y2="36" stroke="#D0D7DE" stroke-width="1"/>
+<circle cx="26" cy="18.5" r="5.5" fill="#FF5F56"/><circle cx="44" cy="18.5" r="5.5" fill="#FFBD2E"/><circle cx="62" cy="18.5" r="5.5" fill="#27C93F"/>
+<text x="80" y="23" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="0" fill="#1F2328" xml:space="preserve">anand@github: ~/identity.ascii</text>
+<rect x="312" y="7.5" width="118" height="21" rx="4.5" fill="#FFFFFF" stroke="#D0D7DE"/>
+<text x="371" y="21.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="0" fill="#57606A" xml:space="preserve">[ printing... ]<animate attributeName="opacity" begin="3.4s" dur="0.2s" values="1;0" fill="freeze"/></text>
+<text x="371" y="21.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="0" fill="#57606A" opacity="0" xml:space="preserve">[ done <tspan fill="#0E8A6D">✓</tspan> ]<animate attributeName="opacity" begin="3.4s" dur="0.2s" values="0;1" fill="freeze"/></text>
+<g>
+<animate attributeName="opacity" begin="5.6s" dur="3s" values="1;0.96;1" repeatCount="indefinite"/>
+<text x="36" y="64.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" fill="#0E8A6D" opacity="0" xml:space="preserve">                   ffLLC<animate attributeName="opacity" begin="0.600s" dur="0.06s" values="0;1" fill="freeze"/><animate attributeName="fill" begin="0.600s" dur="0.45s" values="#1F2328;#0E8A6D" fill="freeze"/></text>
+<text x="36" y="78.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" fill="#0E8A6D" opacity="0" xml:space="preserve">                t;..'''i;1f<animate attributeName="opacity" begin="0.685s" dur="0.06s" values="0;1" fill="freeze"/><animate attributeName="fill" begin="0.685s" dur="0.45s" values="#1F2328;#0E8A6D" fill="freeze"/></text>
+<text x="36" y="93.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" fill="#0E8A6D" opacity="0" xml:space="preserve">                 :'     ':;<animate attributeName="opacity" begin="0.770s" dur="0.06s" values="0;1" fill="freeze"/><animate attributeName="fill" begin="0.770s" dur="0.45s" values="#1F2328;#0E8A6D" fill="freeze"/></text>
+<text x="36" y="107.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" fill="#0E8A6D" opacity="0" xml:space="preserve">                'ifCGCf1::.<animate attributeName="opacity" begin="0.855s" dur="0.06s" values="0;1" fill="freeze"/><animate attributeName="fill" begin="0.855s" dur="0.45s" values="#1F2328;#0E8A6D" fill="freeze"/></text>
+<text x="36" y="122.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" fill="#0E8A6D" opacity="0" xml:space="preserve">              ifC008880Gt<animate attributeName="opacity" begin="0.940s" dur="0.06s" values="0;1" fill="freeze"/><animate attributeName="fill" begin="0.940s" dur="0.45s" values="#1F2328;#0E8A6D" fill="freeze"/></text>
+<text x="36" y="136.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" fill="#0E8A6D" opacity="0" xml:space="preserve">             .1fLC00CffLCt   ..<animate attributeName="opacity" begin="1.025s" dur="0.06s" values="0;1" fill="freeze"/><animate attributeName="fill" begin="1.025s" dur="0.45s" values="#1F2328;#0E8A6D" fill="freeze"/></text>
+<text x="36" y="151.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" fill="#0E8A6D" opacity="0" xml:space="preserve">             '::;:i0CftLGGtLfi:<animate attributeName="opacity" begin="1.110s" dur="0.06s" values="0;1" fill="freeze"/><animate attributeName="fill" begin="1.110s" dur="0.45s" values="#1F2328;#0E8A6D" fill="freeze"/></text>
+<text x="36" y="165.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" fill="#0E8A6D" opacity="0" xml:space="preserve">             :itft:GG08880CG0fi<animate attributeName="opacity" begin="1.195s" dur="0.06s" values="0;1" fill="freeze"/><animate attributeName="fill" begin="1.195s" dur="0.45s" values="#1F2328;#0E8A6D" fill="freeze"/></text>
+<text x="36" y="180.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" fill="#0E8A6D" opacity="0" xml:space="preserve">            .:fGG1;fC0880GCGGti<animate attributeName="opacity" begin="1.280s" dur="0.06s" values="0;1" fill="freeze"/><animate attributeName="fill" begin="1.280s" dur="0.45s" values="#1F2328;#0E8A6D" fill="freeze"/></text>
+<text x="36" y="194.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" fill="#0E8A6D" opacity="0" xml:space="preserve">             ';tf;'tLCLGGGLLL1<animate attributeName="opacity" begin="1.365s" dur="0.06s" values="0;1" fill="freeze"/><animate attributeName="fill" begin="1.365s" dur="0.45s" values="#1F2328;#0E8A6D" fill="freeze"/></text>
+<text x="36" y="209.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" fill="#0E8A6D" opacity="0" xml:space="preserve">             t;;;;;tfCGGCLfi;<animate attributeName="opacity" begin="1.450s" dur="0.06s" values="0;1" fill="freeze"/><animate attributeName="fill" begin="1.450s" dur="0.45s" values="#1F2328;#0E8A6D" fill="freeze"/></text>
+<text x="36" y="223.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" fill="#0E8A6D" opacity="0" xml:space="preserve">               1;;iftfCLfLCC<animate attributeName="opacity" begin="1.535s" dur="0.06s" values="0;1" fill="freeze"/><animate attributeName="fill" begin="1.535s" dur="0.45s" values="#1F2328;#0E8A6D" fill="freeze"/></text>
+<text x="36" y="238.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" fill="#0E8A6D" opacity="0" xml:space="preserve">               f;;i;;i1fCGG<animate attributeName="opacity" begin="1.620s" dur="0.06s" values="0;1" fill="freeze"/><animate attributeName="fill" begin="1.620s" dur="0.45s" values="#1F2328;#0E8A6D" fill="freeze"/></text>
+<text x="36" y="252.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" fill="#0E8A6D" opacity="0" xml:space="preserve">               Li:;i1fCGGGG@0f8@@@@8<animate attributeName="opacity" begin="1.705s" dur="0.06s" values="0;1" fill="freeze"/><animate attributeName="fill" begin="1.705s" dur="0.45s" values="#1F2328;#0E8A6D" fill="freeze"/></text>
+<text x="36" y="267.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" fill="#0E8A6D" opacity="0" xml:space="preserve">               ti;i1tLCGGCC@L:C088@@@8888@@@<animate attributeName="opacity" begin="1.790s" dur="0.06s" values="0;1" fill="freeze"/><animate attributeName="fill" begin="1.790s" dur="0.45s" values="#1F2328;#0E8A6D" fill="freeze"/></text>
+<text x="36" y="281.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" fill="#0E8A6D" opacity="0" xml:space="preserve">              GL11;;1tLLL1f1.iCG0G8@@880888@@@<animate attributeName="opacity" begin="1.875s" dur="0.06s" values="0;1" fill="freeze"/><animate attributeName="fill" begin="1.875s" dur="0.45s" values="#1F2328;#0E8A6D" fill="freeze"/></text>
+<text x="36" y="296.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" fill="#0E8A6D" opacity="0" xml:space="preserve">            @@88LfG    .';1:'f0@@@@0@8800888@@@@<animate attributeName="opacity" begin="1.960s" dur="0.06s" values="0;1" fill="freeze"/><animate attributeName="fill" begin="1.960s" dur="0.45s" values="#1F2328;#0E8A6D" fill="freeze"/></text>
+<text x="36" y="310.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" fill="#0E8A6D" opacity="0" xml:space="preserve">         ttt0@@@LC0f::'';0t:'1G0@@@808@808888888@8<animate attributeName="opacity" begin="2.045s" dur="0.06s" values="0;1" fill="freeze"/><animate attributeName="fill" begin="2.045s" dur="0.45s" values="#1F2328;#0E8A6D" fill="freeze"/></text>
+<text x="36" y="325.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" fill="#0E8A6D" opacity="0" xml:space="preserve">       @Gftf0@@@fL00''::L8t:'i0GG@@@8008888888888@8;<animate attributeName="opacity" begin="2.130s" dur="0.06s" values="0;1" fill="freeze"/><animate attributeName="fill" begin="2.130s" dur="0.45s" values="#1F2328;#0E8A6D" fill="freeze"/></text>
+<text x="36" y="339.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" fill="#0E8A6D" opacity="0" xml:space="preserve">     t@80GtfC@@@f1081'':881::;@8G0@@88008888088888@G<animate attributeName="opacity" begin="2.215s" dur="0.06s" values="0;1" fill="freeze"/><animate attributeName="fill" begin="2.215s" dur="0.45s" values="#1F2328;#0E8A6D" fill="freeze"/></text>
+<text x="36" y="354.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" fill="#0E8A6D" opacity="0" xml:space="preserve">    Gf8@8Cftf@@@f'00L''1@81::'@@0C8@@8808888G888888@<animate attributeName="opacity" begin="2.300s" dur="0.06s" values="0;1" fill="freeze"/><animate attributeName="fill" begin="2.300s" dur="0.45s" values="#1F2328;#0E8A6D" fill="freeze"/></text>
+<text x="36" y="368.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" fill="#0E8A6D" opacity="0" xml:space="preserve">    1f0@8Lf1t@@@L'L80:1L@8i:::G@@G08@888888008088888<animate attributeName="opacity" begin="2.385s" dur="0.06s" values="0;1" fill="freeze"/><animate attributeName="fill" begin="2.385s" dur="0.45s" values="#1F2328;#0E8A6D" fill="freeze"/></text>
+<text x="36" y="383.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" fill="#0E8A6D" opacity="0" xml:space="preserve">   Lt1C@8fL1tG@@C::00f'C88t::'L@@8088888888808088808<animate attributeName="opacity" begin="2.470s" dur="0.06s" values="0;1" fill="freeze"/><animate attributeName="fill" begin="2.470s" dur="0.45s" values="#1F2328;#0E8A6D" fill="freeze"/></text>
+<text x="36" y="397.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" fill="#0E8A6D" opacity="0" xml:space="preserve">   i11f88fLfff@@C:';Lt 888t'''1@@8088888888880G088008<animate attributeName="opacity" begin="2.555s" dur="0.06s" values="0;1" fill="freeze"/><animate attributeName="fill" begin="2.555s" dur="0.45s" values="#1F2328;#0E8A6D" fill="freeze"/></text>
+<text x="36" y="412.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" fill="#0E8A6D" opacity="0" xml:space="preserve">   t11100ftGCt8@G:'''f;@00:..''8@@808888888880G0888G8<animate attributeName="opacity" begin="2.640s" dur="0.06s" values="0;1" fill="freeze"/><animate attributeName="fill" begin="2.640s" dur="0.45s" values="#1F2328;#0E8A6D" fill="freeze"/></text>
+<text x="36" y="426.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" fill="#0E8A6D" opacity="0" xml:space="preserve">   if11C0ft00tC@0'''  ;@8L...''t8@888808888880C0000G8<animate attributeName="opacity" begin="2.725s" dur="0.06s" values="0;1" fill="freeze"/><animate attributeName="fill" begin="2.725s" dur="0.45s" values="#1F2328;#0E8A6D" fill="freeze"/></text>
+<text x="36" y="441.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" fill="#0E8A6D" opacity="0" xml:space="preserve">  i;Ci1tC1tG8Lf@0'''  i@0t...'''08888800888888CG00000<animate attributeName="opacity" begin="2.810s" dur="0.06s" values="0;1" fill="freeze"/><animate attributeName="fill" begin="2.810s" dur="0.45s" values="#1F2328;#0E8A6D" fill="freeze"/></text>
+<text x="36" y="455.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" fill="#0E8A6D" opacity="0" xml:space="preserve">  iiLti1111C8Gt88'.'. ;80:...'':i08088880888880G00000<animate attributeName="opacity" begin="2.895s" dur="0.06s" values="0;1" fill="freeze"/><animate attributeName="fill" begin="2.895s" dur="0.45s" values="#1F2328;#0E8A6D" fill="freeze"/></text>
+<text x="36" y="470.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" fill="#0E8A6D" opacity="0" xml:space="preserve">  11fLii111L80tG8'.'' i@G'....':'t8008888888888G00000G<animate attributeName="opacity" begin="2.980s" dur="0.06s" values="0;1" fill="freeze"/><animate attributeName="fill" begin="2.980s" dur="0.45s" values="#1F2328;#0E8A6D" fill="freeze"/></text>
+<text x="36" y="484.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" fill="#0E8A6D" opacity="0" xml:space="preserve">  tfLf1ii11C88tL@'... i80'....'':.f0088888888880CGGGGG<animate attributeName="opacity" begin="3.065s" dur="0.06s" values="0;1" fill="freeze"/><animate attributeName="fill" begin="3.065s" dur="0.45s" values="#1F2328;#0E8A6D" fill="freeze"/></text>
+<text x="36" y="499.0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" fill="#0E8A6D" opacity="0" xml:space="preserve"> ttfL111111C88ft@'... .;:'....''::.LG08888888888LtGGGG<animate attributeName="opacity" begin="3.150s" dur="0.06s" values="0;1" fill="freeze"/><animate attributeName="fill" begin="3.150s" dur="0.45s" values="#1F2328;#0E8A6D" fill="freeze"/></text>
+</g>
+<line x1="30" y1="110" x2="500" y2="110" stroke="#1F2328" stroke-opacity="0.03" stroke-width="1"/>
+<line x1="30" y1="190" x2="500" y2="190" stroke="#1F2328" stroke-opacity="0.03" stroke-width="1"/>
+<line x1="30" y1="270" x2="500" y2="270" stroke="#1F2328" stroke-opacity="0.03" stroke-width="1"/>
+<line x1="30" y1="350" x2="500" y2="350" stroke="#1F2328" stroke-opacity="0.03" stroke-width="1"/>
+<line x1="30" y1="430" x2="500" y2="430" stroke="#1F2328" stroke-opacity="0.03" stroke-width="1"/>
+<g opacity="0" transform="translate(0 52)">
+<animate attributeName="opacity" begin="0.6s" dur="2.94s" values="1;1;0" keyTimes="0;0.8980;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" begin="0.6s" dur="2.64s" calcMode="discrete" values="0 52.0;0 66.5;0 81.0;0 95.5;0 110.0;0 124.5;0 139.0;0 153.5;0 168.0;0 182.5;0 197.0;0 211.5;0 226.0;0 240.5;0 255.0;0 269.5;0 284.0;0 298.5;0 313.0;0 327.5;0 342.0;0 356.5;0 371.0;0 385.5;0 400.0;0 414.5;0 429.0;0 443.5;0 458.0;0 472.5;0 487.0" fill="freeze"/>
+<rect x="30" y="0" width="470" height="15" fill="url(#scanG)"/>
+<rect x="30" y="13.5" width="470" height="1.5" fill="url(#scanLead)"/>
+</g>
+<g opacity="0" transform="translate(8 0)">
+<animate attributeName="opacity" begin="3.60s" dur="0.25s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" begin="3.60s" dur="0.25s" values="8 0;0 0" fill="freeze"/>
+<text x="512" y="136" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="bold" letter-spacing="0" fill="#0891B2" xml:space="preserve">anand@github</text>
+</g>
+<g opacity="0" transform="translate(8 0)">
+<animate attributeName="opacity" begin="3.74s" dur="0.25s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" begin="3.74s" dur="0.25s" values="8 0;0 0" fill="freeze"/>
+<text x="512" y="160" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" fill="#57606A" xml:space="preserve">----------------------------</text>
+</g>
+<g opacity="0" transform="translate(8 0)">
+<animate attributeName="opacity" begin="3.88s" dur="0.25s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" begin="3.88s" dur="0.25s" values="8 0;0 0" fill="freeze"/>
+<text x="512" y="184" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" xml:space="preserve"><tspan fill="#57606A">OS ............ </tspan><tspan fill="#1F2328">Windows 11 + Ubuntu 24.04</tspan></text>
+</g>
+<g opacity="0" transform="translate(8 0)">
+<animate attributeName="opacity" begin="4.02s" dur="0.25s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" begin="4.02s" dur="0.25s" values="8 0;0 0" fill="freeze"/>
+<text x="512" y="208" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" xml:space="preserve"><tspan fill="#57606A">Uptime ........ </tspan><tspan fill="#1F2328">2 yrs 0 mo 19 d on GitHub</tspan></text>
+</g>
+<g opacity="0" transform="translate(8 0)">
+<animate attributeName="opacity" begin="4.16s" dur="0.25s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" begin="4.16s" dur="0.25s" values="8 0;0 0" fill="freeze"/>
+<text x="512" y="232" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" xml:space="preserve"><tspan fill="#57606A">Host .......... </tspan><tspan fill="#1F2328">P2P.me — payment rails on Base</tspan></text>
+</g>
+<g opacity="0" transform="translate(8 0)">
+<animate attributeName="opacity" begin="4.30s" dur="0.25s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" begin="4.30s" dur="0.25s" values="8 0;0 0" fill="freeze"/>
+<text x="512" y="256" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" xml:space="preserve"><tspan fill="#57606A">Role .......... </tspan><tspan fill="#1F2328">Backend &amp; Web3 Engineer</tspan></text>
+</g>
+<g opacity="0" transform="translate(8 0)">
+<animate attributeName="opacity" begin="4.44s" dur="0.25s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" begin="4.44s" dur="0.25s" values="8 0;0 0" fill="freeze"/>
+<text x="512" y="280" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" xml:space="preserve"><tspan fill="#57606A">Langs ......... </tspan><tspan fill="#1F2328">TypeScript · Solidity · Rust</tspan></text>
+</g>
+<g opacity="0" transform="translate(8 0)">
+<animate attributeName="opacity" begin="4.58s" dur="0.25s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" begin="4.58s" dur="0.25s" values="8 0;0 0" fill="freeze"/>
+<text x="512" y="304" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" xml:space="preserve"><tspan fill="#57606A">Infra ......... </tspan><tspan fill="#1F2328">Node · Postgres · Redis · BullMQ</tspan></text>
+</g>
+<g opacity="0" transform="translate(8 0)">
+<animate attributeName="opacity" begin="4.72s" dur="0.25s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" begin="4.72s" dur="0.25s" values="8 0;0 0" fill="freeze"/>
+<text x="512" y="328" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" xml:space="preserve"><tspan fill="#57606A">Chain ......... </tspan><tspan fill="#1F2328">EVM · Hardhat · Foundry · 4337</tspan></text>
+</g>
+<g opacity="0" transform="translate(8 0)">
+<animate attributeName="opacity" begin="4.86s" dur="0.25s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" begin="4.86s" dur="0.25s" values="8 0;0 0" fill="freeze"/>
+<text x="512" y="352" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" xml:space="preserve"><tspan fill="#57606A">Focus ......... </tspan><tspan fill="#1F2328">exactly-once · reorg-safe · gas</tspan></text>
+</g>
+<g opacity="0" transform="translate(8 0)">
+<animate attributeName="opacity" begin="5.00s" dur="0.25s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" begin="5.00s" dur="0.25s" values="8 0;0 0" fill="freeze"/>
+<text x="512" y="376" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" xml:space="preserve"><tspan fill="#57606A">Contact ....... </tspan><tspan fill="#1F2328">anandsingh887472@gmail.com</tspan></text>
+</g>
+<g opacity="0" transform="translate(8 0)">
+<animate attributeName="opacity" begin="5.14s" dur="0.25s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" begin="5.14s" dur="0.25s" values="8 0;0 0" fill="freeze"/>
+<text x="512" y="400" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" xml:space="preserve"><tspan fill="#57606A">LinkedIn ...... </tspan><tspan fill="#1F2328">anand-pratap707</tspan></text>
+</g>
+<g opacity="0" transform="translate(8 0)">
+<animate attributeName="opacity" begin="5.28s" dur="0.25s" values="0;1" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" begin="5.28s" dur="0.25s" values="8 0;0 0" fill="freeze"/>
+<text x="512" y="424" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="0" xml:space="preserve"><tspan fill="#57606A">Repos ......... </tspan><tspan fill="#1F2328">33 { 26 src · 7 forks }</tspan><tspan fill="#0E8A6D" fill-opacity="0"> █<animate attributeName="fill-opacity" begin="5.6s" dur="1.1s" calcMode="discrete" values="1;0" repeatCount="indefinite"/></tspan></text>
+</g>
+</svg>
