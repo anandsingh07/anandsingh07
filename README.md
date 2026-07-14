@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-    <img alt="Anand Singh — Backend & Web3 Engineer" src="assets/hero-dark.svg" width="100%">
+    <img alt="Anand Singh — Software Engineer" src="assets/hero-dark.svg" width="100%">
   </picture>
 </div>
 
@@ -10,7 +10,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/portrait-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/portrait-light.svg">
-    <img alt="ASCII self-portrait printing line by line, with identity card" src="assets/portrait-dark.svg" width="100%">
+    <img alt="ASCII self-portrait printing line by line, with profile info" src="assets/portrait-dark.svg" width="100%">
   </picture>
 </div>
 
@@ -18,16 +18,15 @@
   <samp>
     <a href="mailto:anandsingh887472@gmail.com">email</a> &nbsp;·&nbsp;
     <a href="https://linkedin.com/in/anand-pratap707">linkedin</a> &nbsp;·&nbsp;
-    <a href="https://p2p.me">p2p.me</a> &nbsp;·&nbsp;
     <img src="https://komarev.com/ghpvc/?username=anandsingh07&style=flat-square&color=0052FF&label=visits" alt="profile visits">
   </samp>
 </p>
 
 ## <samp>$ whoami</samp>
 
-I engineer the systems where **money moves** — smart contracts on one end, distributed backends on the other, and the unforgiving middle where correctness actually matters: exactly-once semantics, reorg safety, idempotency, gas.
+I'm a software engineer who builds **backend systems** — the services, data layers and APIs that hold up under real traffic. My day-to-day is **TypeScript and Node.js** over **Postgres and Redis**: idempotent jobs, clean data models, caching that actually pays off.
 
-Right now I'm at **[P2P.me](https://p2p.me)**, building open payment rails that settle **USDC ↔ fiat** over UPI, PIX and QRIS. And I'm leveling up in **Rust**.
+I also write **smart contracts** in Solidity when a problem calls for on-chain guarantees, and I'm leveling up in **Rust**. Web2 reliability, with web3 in the toolkit when it earns its place.
 
 ## <samp>$ ls ~/building</samp>
 
@@ -74,11 +73,11 @@ Right now I'm at **[P2P.me](https://p2p.me)**, building open payment rails that 
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/anandsingh07/-p2p-merchant-terminal">
+      <a href="https://github.com/anandsingh07/URL-Shortner">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/cards/terminal-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="assets/cards/terminal-light.svg">
-          <img alt="P2P Merchant Terminal" src="assets/cards/terminal-dark.svg" width="100%">
+          <source media="(prefers-color-scheme: dark)" srcset="assets/cards/zshort-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="assets/cards/zshort-light.svg">
+          <img alt="Z-Short URL shortener" src="assets/cards/zshort-dark.svg" width="100%">
         </picture>
       </a>
     </td>
@@ -137,5 +136,5 @@ Right now I'm at **[P2P.me](https://p2p.me)**, building open payment rails that 
 ---
 
 <p align="center">
-  <samp>$ echo "web2 reliability &times; web3 trustlessness"</samp>
+  <samp>$ echo "build systems that hold up &mdash; web2 first, web3 when it earns it"</samp>
 </p>

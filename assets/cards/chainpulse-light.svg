@@ -28,7 +28,7 @@
   <text x="422" y="30" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#57606A">&#8599;</text>
   <text x="44" y="47" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#57606A">anandsingh07/cross-chain-indexer</text>
 
-  <text x="22" y="72" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#57606A">Reorg-safe EVM event pipeline - idempotent ingestion,</text>
+  <text x="22" y="72" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#57606A">Event-indexing pipeline - idempotent ingestion, a</text>
   <text x="22" y="89" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#57606A">rolling sequence ledger, REST/GraphQL/WS, Prometheus.</text>
 
   <g>

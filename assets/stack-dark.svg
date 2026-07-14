@@ -9,7 +9,7 @@
   <rect x="0.5" y="0.5" width="899" height="233" rx="12" fill="#10151D" stroke="#30363D"/>
 
   <text x="24" y="30" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13"><tspan fill="#00FF9D">$</tspan><tspan fill="#E6EDF3" font-weight="bold" dx="8">stack</tspan><tspan fill="#8B949E" dx="8">--list --all</tspan></text>
-  <text x="876" y="30" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#8B949E">23 tools <tspan fill="#FF2D95">&#183;</tspan> 4 groups</text>
+  <text x="876" y="30" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#8B949E">21 tools <tspan fill="#FF2D95">&#183;</tspan> 4 groups</text>
   <rect x="24" y="41" width="852" height="1.5" fill="url(#rule)"/>
 
   <text x="24" y="79" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="2" fill="#00E5FF">LANGUAGES</text>
@@ -105,7 +105,7 @@
     </circle>
     <text x="793" y="121.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">Prometheus</text>
   </g>
-  <text x="24" y="163" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="2" fill="#00E5FF">CHAIN</text>
+  <text x="24" y="163" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="2" fill="#00E5FF">SMART CONTRACTS</text>
   <g>
     <rect x="170" y="146" width="126" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
     <circle cx="183" cy="159" r="3.5" fill="#8B7CF6">
@@ -114,66 +114,52 @@
     <text x="192" y="163.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">Ethereum / EVM</text>
   </g>
   <g>
-    <rect x="304" y="146" width="58" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
-    <circle cx="317" cy="159" r="3.5" fill="#0052FF">
+    <rect x="304" y="146" width="92" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
+    <circle cx="317" cy="159" r="3.5" fill="#5C6BC0">
       <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-1.22s" repeatCount="indefinite"/>
     </circle>
-    <text x="326" y="163.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">Base</text>
+    <text x="326" y="163.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">Ethers.js</text>
   </g>
   <g>
-    <rect x="370" y="146" width="92" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
-    <circle cx="383" cy="159" r="3.5" fill="#5C6BC0">
+    <rect x="404" y="146" width="79" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
+    <circle cx="417" cy="159" r="3.5" fill="#F0D91D">
       <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-1.95s" repeatCount="indefinite"/>
     </circle>
-    <text x="392" y="163.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">Ethers.js</text>
+    <text x="426" y="163.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">Hardhat</text>
   </g>
   <g>
-    <rect x="470" y="146" width="79" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
-    <circle cx="483" cy="159" r="3.5" fill="#F0D91D">
+    <rect x="491" y="146" width="79" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
+    <circle cx="504" cy="159" r="3.5" fill="#FF6B35">
       <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-2.68s" repeatCount="indefinite"/>
     </circle>
-    <text x="492" y="163.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">Hardhat</text>
-  </g>
-  <g>
-    <rect x="557" y="146" width="79" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
-    <circle cx="570" cy="159" r="3.5" fill="#FF6B35">
-      <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-0.41s" repeatCount="indefinite"/>
-    </circle>
-    <text x="579" y="163.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">Foundry</text>
-  </g>
-  <g>
-    <rect x="644" y="146" width="85" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
-    <circle cx="657" cy="159" r="3.5" fill="#A371F7">
-      <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-1.14s" repeatCount="indefinite"/>
-    </circle>
-    <text x="666" y="163.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">ERC-4337</text>
+    <text x="513" y="163.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">Foundry</text>
   </g>
   <text x="24" y="205" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="2" fill="#00E5FF">FRONTEND / SHIP</text>
   <g>
     <rect x="170" y="188" width="79" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
     <circle cx="183" cy="201" r="3.5" fill="#9CA3AF">
-      <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-1.87s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-0.41s" repeatCount="indefinite"/>
     </circle>
     <text x="192" y="205.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">Next.js</text>
   </g>
   <g>
     <rect x="257" y="188" width="65" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
     <circle cx="270" cy="201" r="3.5" fill="#61DAFB">
-      <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-2.60s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-1.14s" repeatCount="indefinite"/>
     </circle>
     <text x="279" y="205.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">React</text>
   </g>
   <g>
     <rect x="330" y="188" width="72" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
     <circle cx="343" cy="201" r="3.5" fill="#9CA3AF">
-      <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-0.33s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-1.87s" repeatCount="indefinite"/>
     </circle>
     <text x="352" y="205.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">Vercel</text>
   </g>
   <g>
     <rect x="410" y="188" width="126" height="26" rx="13" fill="#161B22" stroke="#30363D"/>
     <circle cx="423" cy="201" r="3.5" fill="#2088FF">
-      <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-1.06s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.6;1" dur="3s" begin="-2.60s" repeatCount="indefinite"/>
     </circle>
     <text x="432" y="205.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EDF3">GitHub Actions</text>
   </g>
