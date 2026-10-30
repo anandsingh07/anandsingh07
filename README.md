@@ -16,9 +16,21 @@
 
 ## <samp>$ whoami</samp>
 
-I'm a software engineer who builds **backend systems** — the services, data layers and APIs that hold up under real traffic. My day-to-day is **TypeScript and Node.js** over **Postgres and Redis**: idempotent jobs, clean data models, caching that actually pays off.
+I'm a **full-stack engineer** who builds **backend-heavy web products and AI-powered services**: TypeScript and Node.js APIs over **Postgres and Redis**, with **Next.js and React** on the front end. I care about the parts that break under real traffic: idempotency, ledgers that always balance, background jobs, caching and tests.
 
-I also write **smart contracts** in Solidity when a problem calls for on-chain guarantees, and I'm leveling up in **Rust**. Web2 reliability, with web3 in the toolkit when it earns its place.
+Lately I'm building with **LLMs** (embeddings, vector search, semantic caching) and sharpening **LLD/HLD in Java** for system design. I've also shipped Solidity/EVM work on an open-source payments protocol.
+
+## <samp>$ cat ~/flagship</samp>
+
+### [PayFlow](https://github.com/anandsingh07/payment-flow): a Razorpay-style payment gateway
+
+- **Payments:** card + UPI with multi-provider failover and Thompson-sampling smart routing
+- **Money correctness:** double-entry ledger in Postgres, idempotent APIs, fraud/risk engine
+- **Merchant features:** payment links with hosted checkout, nightly settlements, HMAC-signed webhooks via a transactional outbox
+- **Dashboard:** Next.js 16 with live updates over Server-Sent Events
+- **Proof:** ~710 transfers/sec at 0% errors (k6, single Node.js process) · 125 automated tests (Vitest + Playwright E2E) · GitHub Actions CI · Docker
+
+<sub>Payment providers are simulated sandboxes; no real money moves.</sub>
 
 ## <samp>$ ls ~/building</samp>
 
@@ -30,15 +42,15 @@ I also write **smart contracts** in Solidity when a problem calls for on-chain g
       </a>
     </td>
     <td>
-      <a href="https://github.com/anandsingh07/cross-chain-indexer">
-        <img alt="ChainPulse" src="assets/cards/chainpulse-dark.svg" width="100%">
+      <a href="https://github.com/anandsingh07/cronHive">
+        <img alt="CronHive" src="assets/cards/cronhive-dark.svg" width="100%">
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/anandsingh07/cronHive">
-        <img alt="CronHive" src="assets/cards/cronhive-dark.svg" width="100%">
+      <a href="https://github.com/anandsingh07/cross-chain-indexer">
+        <img alt="ChainPulse" src="assets/cards/chainpulse-dark.svg" width="100%">
       </a>
     </td>
     <td>
@@ -47,19 +59,9 @@ I also write **smart contracts** in Solidity when a problem calls for on-chain g
       </a>
     </td>
   </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/anandsingh07/URL-Shortner">
-        <img alt="Z-Short URL shortener" src="assets/cards/zshort-dark.svg" width="100%">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/anandsingh07/ethereum-offchain-signature-verification">
-        <img alt="Signature Verification" src="assets/cards/sigverify-dark.svg" width="100%">
-      </a>
-    </td>
-  </tr>
 </table>
+
+Also: **[WriteSpace](https://github.com/anandsingh07/blogApp)**, a full-stack blogging platform (Next.js 16, Prisma, Postgres) · [live](https://blog-app-eta-beige.vercel.app)
 
 ## <samp>$ cat ~/stack</samp>
 
@@ -85,5 +87,5 @@ I also write **smart contracts** in Solidity when a problem calls for on-chain g
 ---
 
 <p align="center">
-  <samp>$ echo "build systems that hold up &mdash; web2 first, web3 when it earns it"</samp>
+  <samp>$ echo "build systems that hold up &mdash; web2 + AI first, web3 when it earns it"</samp>
 </p>
