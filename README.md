@@ -16,44 +16,34 @@
 
 ## <samp>$ whoami</samp>
 
-I'm a **full-stack engineer** who builds **backend-heavy web products and AI-powered services**: TypeScript and Node.js APIs over **Postgres and Redis**, with **Next.js and React** on the front end. I care about the parts that break under real traffic: idempotency, ledgers that always balance, background jobs, caching and tests.
+Full-stack engineer building across **Web2, AI and Web3**: TypeScript backends on Postgres and Redis, LLM apps with Gemini and pgvector, and Solidity smart contracts.<br>
+Open to **Full Stack, AI and Blockchain** engineering roles.
 
-Lately I'm building with **LLMs** (embeddings, vector search, semantic caching) and sharpening **LLD/HLD in Java** for system design. I've also shipped Solidity/EVM work on an open-source payments protocol.
+## <samp>$ cat ~/stack</samp>
 
-## <samp>$ cat ~/flagship</samp>
+| | |
+|---|---|
+| **Full stack** | TypeScript · Node.js · Express · Next.js · React · PostgreSQL · Redis · BullMQ · Prisma · MongoDB · Docker · GitHub Actions |
+| **AI** | Gemini API · Embeddings · pgvector (HNSW) vector search · LLM response caching |
+| **Blockchain** | Solidity · Foundry · Hardhat · OpenZeppelin · ethers.js · viem · wagmi · ERC-4337 · Ethereum & Base (Sepolia) |
+
+## <samp>$ ls ~/featured</samp>
 
 ### [PayFlow](https://github.com/anandsingh07/payment-flow): a Razorpay-style payment gateway
 
-- **Payments:** card + UPI with multi-provider failover and Thompson-sampling smart routing
-- **Money correctness:** double-entry ledger in Postgres, idempotent APIs, fraud/risk engine
-- **Merchant features:** payment links with hosted checkout, nightly settlements, HMAC-signed webhooks via a transactional outbox
-- **Dashboard:** Next.js 16 with live updates over Server-Sent Events
-- **Proof:** ~710 transfers/sec at 0% errors (k6, single Node.js process) · 125 automated tests (Vitest + Playwright E2E) · GitHub Actions CI · Docker
-
+Card + UPI with multi-provider failover and Thompson-sampling routing, a double-entry ledger, idempotent APIs, a risk engine and signed webhooks, plus a Next.js 16 dashboard. ~710 transfers/sec at 0% errors · 125 automated tests · CI · Docker.
 <sub>Payment providers are simulated sandboxes; no real money moves.</sub>
-
-## <samp>$ ls ~/building</samp>
 
 <table>
   <tr>
     <td>
+      <b>AI</b><br>
       <a href="https://github.com/anandsingh07/semanticcache">
         <img alt="SemanticCache" src="assets/cards/semanticcache-dark.svg" width="100%">
       </a>
     </td>
     <td>
-      <a href="https://github.com/anandsingh07/cronHive">
-        <img alt="CronHive" src="assets/cards/cronhive-dark.svg" width="100%">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/anandsingh07/cross-chain-indexer">
-        <img alt="ChainPulse" src="assets/cards/chainpulse-dark.svg" width="100%">
-      </a>
-    </td>
-    <td>
+      <b>Blockchain</b><br>
       <a href="https://github.com/anandsingh07/NexusPAY">
         <img alt="NexusPAY" src="assets/cards/nexuspay-dark.svg" width="100%">
       </a>
@@ -61,13 +51,7 @@ Lately I'm building with **LLMs** (embeddings, vector search, semantic caching) 
   </tr>
 </table>
 
-Also: **[WriteSpace](https://github.com/anandsingh07/blogApp)**, a full-stack blogging platform (Next.js 16, Prisma, Postgres) · [live](https://blog-app-eta-beige.vercel.app)
-
-## <samp>$ cat ~/stack</samp>
-
-<div align="center">
-  <img alt="Tech stack" src="assets/stack-dark.svg" width="100%">
-</div>
+More: [CronHive](https://github.com/anandsingh07/cronHive) (distributed job scheduler) · [ChainPulse](https://github.com/anandsingh07/cross-chain-indexer) (real-time EVM indexer) · [WriteSpace](https://github.com/anandsingh07/blogApp) (full-stack blog, [live](https://blog-app-eta-beige.vercel.app))
 
 ## <samp>$ git log --graph</samp>
 
@@ -87,5 +71,5 @@ Also: **[WriteSpace](https://github.com/anandsingh07/blogApp)**, a full-stack bl
 ---
 
 <p align="center">
-  <samp>$ echo "build systems that hold up &mdash; web2 + AI first, web3 when it earns it"</samp>
+  <samp>$ echo "full stack &middot; AI &middot; web3 &mdash; build systems that hold up"</samp>
 </p>
